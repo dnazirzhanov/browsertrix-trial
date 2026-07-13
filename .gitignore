@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+crawls/
+
+
+.idea/
+*.iml
+
+
+reports/missing_videos.json
+
+data/videos

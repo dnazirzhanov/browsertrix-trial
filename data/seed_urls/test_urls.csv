@@ -1,0 +1,32 @@
+url,domain,url_type,priority,notes
+https://ripost.hu/nino/2026/06/fodraszuzlet-elott-verfurdovel-vegzodott-egy-vita,ripost.hu,recent_article,1,Recent tabloid crime story
+https://ripost.hu/nino/2026/06/fulladt-11-eves-fiu,ripost.hu,recent_article,1,Recent tabloid tragedy story
+https://metropol.hu/aktualis/2026/06/magyarorszag-legjei-hazai-rekordok,metropol.hu,recent_article,1,Recent human-interest/records piece
+https://pestisracok.hu/polbeat/2026/06/ez-az-aszaly-nem-termeszeti-csapas-hanem-a-mi-alkotasunk-polbeat-piknik,pestisracok.hu,recent_article,1,Recent opinion/commentary piece
+http://origo.hu/belpol/2026/07/kormanyszovivoi-tajekoztato-elo-kozvetites-2026-07-09,origo.hu,recent_article,2,"Recent political briefing, possibly a live-blog page"
+https://mandiner.hu/belfold/2026/07/magyar-peter-felszolitotta-es-csornai-charles-bronsonnak-nevezte-a-volt-koztarsasagi-elnokot,mandiner.hu,recent_article,2,Recent political news
+https://mandiner.hu/belfold/2026/07/haladektalan-intezkedesre-szolitotta-fel-a-greenpeace-a-tisza-kormanyt,mandiner.hu,recent_article,2,Recent political/environmental news
+https://magyarnemzet.hu/belfold/2026/07/sulyok-tamas-az-alaptorveny-modositasi-javaslat-szamos-elemeben-serti-a-jogallamisag-a-demokracia-es-a-hatalommegosztas-elvet,magyarnemzet.hu,recent_article,2,"Recent political/legal news, long headline (good edge case for a crawler)"
+https://pestisracok.hu/magyar-ugar/2026/06/orban-a-matolcsy-fidesz-alatt-elindultak-az-eljarasok,pestisracok.hu,recent_article,1,Recent political commentary
+https://pestisracok.hu/magyar-ugar/2026/06/adomanygyujtesbol-fizetnek-ki-budahazyek-a-perkoltsegeiket,pestisracok.hu,recent_article,1,Recent political commentary
+https://pestisracok.hu/vilagugar/2026/06/iran-donald-trump-hadsereg-hormuzi-szoros,pestisracok.hu,recent_article,1,Recent foreign affairs piece
+https://ripost.hu/kulfold/2025/07/nagy-bajban-van-ursula-von-der-leyen,ripost.hu,older_article,1,"~1 year old, foreign politics"
+https://ripost.hu/kulfold/2025/07/repulogep-motorja-olt-meg-egy-ferfit,ripost.hu,older_article,1,"~1 year old, foreign news"
+https://ripost.hu/kulfold/2025/07/szuz-lanyokat-kinalo-iszlamista-tarskereso-indult-europaban,ripost.hu,older_article,1,"~1 year old, foreign news"
+https://www.origo.hu/nagyvilag/2025/07/oroszorszag-azerbajdzsan-konfliktus-kaukazus-repulo,origo.hu,older_article,2,"~1 year old, foreign affairs"
+https://www.origo.hu/utazas/2025/07/kamalduli-remeteseg,origo.hu,older_article,2,"~1 year old, travel/feature piece"
+https://www.origo.hu/cimke/orban-viktor,origo.hu,homepage_category,2,Tag/category listing page
+https://www.origo.hu/cimke/magyar-peter,origo.hu,homepage_category,2,Tag/category listing page
+https://metropol.hu/rovat/sport,metropol.hu,homepage_category,1,Section front page
+https://metropol.hu/rovat/budapest,metropol.hu,homepage_category,1,Section front page
+https://pestisracok.hu/rovat/vilagugar,pestisracok.hu,homepage_category,1,Section front page
+https://mandiner.hu/kultura/2026/05/ket-lencse-par-szegecs-es-nehany-regi-lemez-mi-sem-egyszerubb-mint-ezekbol-osszerakni-egy-jo-szemuveget,mandiner.hu,image_heavy,2,"Feature article, likely many inline images"
+https://magyarnemzet.hu/galeriak,magyarnemzet.hu,image_heavy,2,Gallery index page
+https://mandiner.hu/cimke/galeria,mandiner.hu,image_heavy,2,Gallery tag/index page
+https://www.origo.hu/galeriak?page=1273,origo.hu,image_heavy,2,"Gallery index page, has a query string (good edge case)"
+https://pestisracok.hu/,pestisracok.hu,image_heavy,1,"Homepage, image-dense layout"
+https://ripost.hu/insider/2026/06/orban-viktor-most-meg-nincsenek-migransok-remeljuk-ez-igy-is-marad,ripost.hu,video_social,1,Likely embedded video/social content
+https://ripost.hu/insider/2026/06/migracios-paktum-eletbe-lep-penteken,ripost.hu,video_social,1,Likely embedded video/social content
+https://mandiner.hu/belfold/2026/07/kommandosok-csaptak-le-a-drogszallitokra-pecs-hataraban-videon-a-hajmereszto-akcio,mandiner.hu,video_social,2,Headline confirms embedded video
+https://mandiner.hu/belfold/2026/07/az-atv-veletlenul-elcsipte-magyar-petert-egy-rovid-interjura-torokorszagban-ahol-a-miniszterelnok-azt-is-elmagyarazta-mi-tortent-kozte-es-trump-kozott-video,mandiner.hu,video_social,2,"Headline confirms video, also a long-URL edge case"
+https://magyarnemzet.hu/kulfold/2026/07/amerika-levette-sziriat-terrorlistarol,magyarnemzet.hu,video_social,2,"Foreign affairs, likely social/video embed"
