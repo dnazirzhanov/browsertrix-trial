@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /kereses
+Disallow: /hirdetesek
+Allow: /publicapi/hu/rss/
+Disallow: /publicapi/
+Sitemap: https://pestisracok.hu/sitemapindex.xml
+Sitemap: https://pestisracok.hu/news_sitemap.xml
