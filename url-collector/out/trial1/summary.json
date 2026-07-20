@@ -1,0 +1,16 @@
+{
+  "site": "https://ripost.hu/",
+  "total_unique_urls": 0,
+  "by_source": {},
+  "by_type": {},
+  "top_article_categories": {},
+  "robots_blocked_urls": 0,
+  "run_stats": {
+    "sitemaps_fetched": 2,
+    "sitemap_errors": 0
+  },
+  "outputs": {
+    "inventory_csv": "out/trial1/url_inventory.csv",
+    "summary_json": "out/trial1/summary.json"
+  }
+}
