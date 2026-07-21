@@ -60,6 +60,6 @@ class Config:
     homepage_max_depth: int = 1               # how many link-hops from the homepage
 
     # --- global limits + output --------------------------------------------
-    max_urls: Optional[int] = None            # stop after N unique in-scope URLs (great for tiny trials)
-    out_dir: str = "out"                      # where the SQLite db + CSV/JSON reports are written
+    max_urls: int = 20                        # stop after N unique in-scope URLs (great for tiny trials)
+    out_dir: str = "out"          # where the SQLite db + CSV/JSON reports are written
     db_name: str = "frontier.sqlite"

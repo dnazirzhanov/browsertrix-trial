@@ -1,0 +1,27 @@
+{
+  "site": "https://ripost.hu/",
+  "unique_urls_kept": 379181,
+  "discovered_total": 386466,
+  "dropped_as_duplicate": 5756,
+  "dropped_as_out_of_scope": 1529,
+  "by_source": {
+    "homepage_seed": {
+      "discovered": 1,
+      "kept_unique": 0
+    },
+    "page_crawl": {
+      "discovered": 6822,
+      "kept_unique": 123
+    },
+    "sitemap": {
+      "discovered": 379643,
+      "kept_unique": 379058
+    }
+  },
+  "sitemaps_walked": 144,
+  "pages_crawled": 50,
+  "outputs": {
+    "urls_file": "out/urls.txt.gz",
+    "report_file": "out/report.json"
+  }
+}
