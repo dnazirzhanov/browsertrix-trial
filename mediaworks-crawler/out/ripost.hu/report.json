@@ -1,0 +1,12 @@
+{
+  "domain": "ripost.hu",
+  "total_unique_urls": 379357,
+  "by_source": {
+    "crawl": 409,
+    "sitemap": 378948
+  },
+  "by_type": {
+    "page": 379247,
+    "pagination": 110
+  }
+}

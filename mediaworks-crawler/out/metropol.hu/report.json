@@ -1,0 +1,12 @@
+{
+  "domain": "metropol.hu",
+  "total_unique_urls": 190365,
+  "by_source": {
+    "crawl": 270,
+    "sitemap": 190095
+  },
+  "by_type": {
+    "page": 190259,
+    "pagination": 106
+  }
+}

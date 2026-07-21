@@ -1,0 +1,7 @@
+# one domain per line; blank lines and # comments ignored
+ripost.hu
+metropol.hu
+pestisracok.hu
+origo.hu
+mandiner.hu
+mno.hu
